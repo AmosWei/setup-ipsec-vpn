@@ -11,7 +11,7 @@
 # know how you have improved it!
 
 # Check https://libreswan.org for the latest version
-swan_ver=3.20
+swan_ver=3.20 sa
 
 ### DO NOT edit below this line ###
 
